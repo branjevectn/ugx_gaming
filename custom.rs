@@ -1,6 +1,6 @@
 fn main() {
   let a: &i32;
-// fgghyf
+// fgghyffddd
   // a and b have same lifetime
   let b = 3;  
   a = &b;
